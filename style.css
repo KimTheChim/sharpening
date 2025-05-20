@@ -172,4 +172,6 @@ footer {
     justify-content: center;
     align-items: center;
     color: #F9FAF8;
+    position: relative;
+    margin-top: 285px;
 }
